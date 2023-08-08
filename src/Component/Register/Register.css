@@ -1,0 +1,16 @@
+.register{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+}
+.register form{
+  width: 50%;
+  border: 2px solid gray;
+  padding: 30px;
+
+}
+.register form input{
+margin: 7px;
+width: 70%;
+}
